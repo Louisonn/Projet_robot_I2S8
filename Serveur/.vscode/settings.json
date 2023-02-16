@@ -1,0 +1,9 @@
+{
+    "todohighlight.isEnable": true,
+    "files.associations": {
+        "mrpiz.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "pilot.h": "c"
+    }
+}
