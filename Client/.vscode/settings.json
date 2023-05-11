@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "remoteui.h": "c",
-        "client.h": "c",
-        "socket.h": "c"
-    }
-}
